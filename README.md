@@ -1,9 +1,9 @@
 # Notes
-This is a small notes app for Google Glass based on the notes app from [open quartz](https://github.com/jaredsburrows/open-quartz).
+This is a small notes app for Google Glass based on the glass-memo app from [open quartz](https://github.com/jaredsburrows/open-quartz).
 
 ## Changes
 1. The LiveCard now only displays the newest note instead of a numbered list of all created notes.
-2. If more then one note is created the card on the home screen will show a stack symbol.
+2. If more than one note is created the card on the home screen will show a stack symbol.
 3. The app now uses the built-in glass command "Take a note"
 
 ## Download
