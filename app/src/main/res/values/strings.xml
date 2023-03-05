@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="view_notes">View notes</string>
+    <string name="close">Close</string>
+    <string name="shared_notes_key">notes</string>
+    <string name="delete_note">Delete note</string>
+    <string name="read_aloud">Read aloud</string>
+</resources>
